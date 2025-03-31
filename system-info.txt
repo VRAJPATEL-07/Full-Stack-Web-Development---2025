@@ -1,0 +1,21 @@
+System Information:
+{
+  "OS_Type": "Windows_NT",
+  "Total_Memory": "16.80 GB",
+  "Free_Memory": "5.02 GB",
+  "CPU_Details": [
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz",
+    "11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz"
+  ],
+  "Uptime": "7.42 hours"
+}
